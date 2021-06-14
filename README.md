@@ -29,5 +29,5 @@ Simply install these by running `pip install <library name>` in your terminal
 ### About Me
 I'm Skull, Skull Crusher#9515 on Discord. I am a high schooler who likes coding :D
 
-YouTube: [AV Creators Coding](https://www.youtube.com/channel/UCcWfrKzR9cm-QKUZKAcxLXQ)
-Y4D Discord Bot: [Y4D](https://dsc.gg/y4d)
+- YouTube: [AV Creators Coding](https://www.youtube.com/channel/UCcWfrKzR9cm-QKUZKAcxLXQ)
+- Y4D Discord Bot: [Y4D](https://dsc.gg/y4d)
