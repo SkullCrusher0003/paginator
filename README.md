@@ -21,7 +21,7 @@ Simply install these by running `pip install <library name>` in your terminal
 
 ## More To Know
 - Adding checks to the `wait_for` statement will allow you to restrict buttons usage for a single user
-- If you're gonna be using this in a case where multiple people might be using it at the same time, consider putting a check to get the message id == mainMessage.id
+- If you're gonna be using this in a case where multiple people might be using it at the same time, consider putting a check to get the `message id == mainMessage.id`
 
 ### About Me
 I'm Skull, Skull Crusher#9515 on Discord. 
