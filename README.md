@@ -1,5 +1,6 @@
 # Paginator - discord_components
 This repository is just an example code for how to carry out pagination using the discord_components library for python. Its fairly easy, and once you get the hang of it you can modify it as per your choice :D
+The code contains an in-built timeout feature, where after 10 seconds of inactivity, the buttons are disabled automatically!
 
 ![git.gif](https://github.com/SkullCrusher0003/paginator/blob/main/git.gif)
 
