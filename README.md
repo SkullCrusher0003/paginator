@@ -16,7 +16,7 @@ Simply install these by running `pip install <library name>` in your terminal
 - discord_components
 
 ## Usage
-1. Download the pagination.py file
+1. Download the [pagination.py](https://github.com/SkullCrusher0003/paginator/blob/main/pagination.py) file
 2. Replace `<TOKEN>` with your bot's token
 3. Edit the embeds as necessary / add more
 4. Edit button styles if necessary
